@@ -1,1 +1,1 @@
-# ML-Applied-for-Echo-Characterization
+# Machine Learning Modeling Applied for Seabed Echo-Characterization in King George Bay, Antarctica.
